@@ -3,4 +3,4 @@ Repo for CE444: Geotechnical Design, Homework Assignment 5 as taught by Dr. Aras
 
 Homework Assignment 5 was assigned 26th of Febuary, 2026. It is focused on the bearing capacity of shallow foundations. 
 
-## This assignment is a work-in-progress. No grade can be reported.
+## A score of 30/30 was earned.
